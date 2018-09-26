@@ -5,6 +5,9 @@ Write a function that takes in a non-empty array of distinct integers and an int
 
 Sample input: [3, 5, -4, 8, 11, 1, -1, 6], 10 Sample output: [-1, 11]
 
+[ -4, -1, 1, 3, 5, 6, 8, 11 ]
+
+
 ​Optimal space and time complexity : 0 (n) time | 0 (n) space - where n is the length of the input array
 
 To Run test type : 'npm test'

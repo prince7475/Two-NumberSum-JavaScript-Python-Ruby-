@@ -1,0 +1,23 @@
+{
+  "name": "two-sums-all-program",
+  "version": "1.0.0",
+  "description": "​Two Number Sum",
+  "main": "Test.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prince7475/Two-Sums-All-Program.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prince7475/Two-Sums-All-Program/issues"
+  },
+  "homepage": "https://github.com/prince7475/Two-Sums-All-Program#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
